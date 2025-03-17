@@ -1,0 +1,62 @@
+# Visual Studio and Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dotCover
+*.sln.iml
+
+# Build and Binaries
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# Rider-specific
+.idea/
+*.iml
+workspace.xml
+shelf/
+tasks.xml
+riderTasks.xml
+.editorconfig
+*.bak
+logs/
+log/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Packages
+*.nupkg
+packages/
+*.nuspec
+project.lock.json
+project.assets.json
+
+# Environment and Secrets
+.env
+secrets.json
+
+# NuGet
+.nuget/
+packages/
+project.lock.json
+project.assets.json
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Node Modules (if using front
